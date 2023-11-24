@@ -1,2 +1,1 @@
-curl -X POST -H "Content-Type: multipart/form-data" -F "file=@/C:\Users\ACCER\Pictures\image.png" http://github.com/upload
 
